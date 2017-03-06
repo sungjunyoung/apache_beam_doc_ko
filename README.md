@@ -5,7 +5,7 @@
 
 - [Overview](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/Apache%20Beam%20Programming%20Guide/Overview)
 - [Creating the Pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/2.%20Creating%20the%20pipeline)
-- Working with PCollections
+- [Working with PCollections](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/3.%20Working%20with%20PCollections)
     - Creating a PCollection
     - PCollection Characteristics
         - Element Type
