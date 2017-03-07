@@ -13,7 +13,7 @@
         - Random Access
         - Size and Boundedness
         - Element Timestamps
-- Applying Transforms
+- [Applying Transforms](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/4.%20Applying%20transforms)
     - Using ParDo
     - Using GroupByKey
     - Using Combine
