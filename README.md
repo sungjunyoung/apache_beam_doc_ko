@@ -7,7 +7,7 @@
 - [Creating the Pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/2.%20Creating%20the%20pipeline)
 - [Working with PCollections](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/3.%20Working%20with%20PCollections)
     - [Creating a PCollection](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/3.%20Working%20with%20PCollections/1.%20Creating%20a%20PCollection)
-    - PCollection Characteristics
+    - [PCollection Characteristics](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/3.%20Working%20with%20PCollections/2.%20PCollection%20characteristics)
         - Element Type
         - Immutability
         - Random Access
