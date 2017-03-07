@@ -15,7 +15,7 @@
         - Element Timestamps
 - [Applying Transforms](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/4.%20Applying%20transforms)
     - [Using ParDo](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/4.%20Applying%20transforms/1.%20Using%20ParDo)
-    - Using GroupByKey
+    - [Using GroupByKey](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/4.%20Applying%20transforms/2.%20Using%20GroupByKey)
     - Using Combine
     - Using Flatten and Partition
     - General Requirements for Writing User Code for Beam Transforms
