@@ -23,7 +23,7 @@
     - [Using Flatten and Partition](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/4.%20Applying%20transforms/4.%20Using%20Flatten%20and%20Partition)
     - [General Requirements for Writing User Code for Beam Transforms](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/4.%20Applying%20transforms/5.%20General%20Requirements%20for%20writing%20user%20code%20for%20Beam%20transforms)
     - [Side Inputs and Side Outputs](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/4.%20Applying%20transforms/6.%20Side%20Inputs%20and%20Side%20Outputs)
-- Composite Transforms
+- [Composite Transforms](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/5.%20Composite%20Transforms)
 - Pipeline I/O
 - Running the Pipeline
 - Data Encoding and Type Safety
