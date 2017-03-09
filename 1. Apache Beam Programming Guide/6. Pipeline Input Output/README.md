@@ -23,3 +23,28 @@ Write transform 은 `PCollection`에 있는 데이터를 외부 데이터 소스
 ```java
 output.apply(TextIO.Write.to("gs://some/outputData"));
 ```
+
+#### File-based input and output data
+
+**Reading from multiple locations:**
+
+많은 read transform은 사용자가 제공하는 glob 연산자와 일치하는 여러 입력 파일에서 읽기를 지원합니다. glob 연산자는 파일 시스템마다 다르며 파일 시스템 고유의 일관된 모델을 따르는 것에 유의하십시오. 다음의 TextIO 예제는 "input-" prefix 와 ".csv" suffix 에 일치하는 파일을 찾기 위해 주어진 위치에서 glob 연산자(\*)를 사용합니다.
+
+```java
+p.apply(“ReadFromText”,
+    TextIO.Read.from("protocol://my_bucket/path/to/input-*.csv");
+```
+
+다른 소스로부터 단일 `PCollection`으로 데이터를 읽기 위해서는, 각각 독립적으로 변환한 다음 [Flatten](https://beam.apache.org/documentation/programming-guide/#transforms-flatten-partition) transform 을 사용하여 단일 `PCollection`을 만듭니다.
+
+**Writing from multiple locations:**
+
+파일 기반의 출력 데이터를 위해선, write transform 은 기본적으로 여러 출력 파일들을 만듭니다. 당신이 출력 파일 이름을 write transform 으로 넘겨주면, 파일 이름은 모든 출력 파일들에 대한 prefix로 사용됩니다. 당신은 각각의 파일에 대해 suffix도 지정할 수 있습니다.
+
+다음의 예제는 특정 위치에 다수의 출력 파일을 쓰는 것입니다. 각각의 파일들은 "numbers"라는 prefix 를 가지며, suffix 로 ".csv"가 지정됩니다.
+
+```java
+records.apply("WriteToText",
+    TextIO.Write.to("protocol://my_bucket/path/to/numbers")
+                .withSuffix(".csv"));
+```
