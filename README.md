@@ -29,7 +29,7 @@
 - **[Pipeline Fundamentals](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals)**
     - [Design Your Pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/1.%20Design%20Your%20Pipeline)
         - [What to consider when designing your pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/1.%20Design%20Your%20Pipeline/1.%20What%20to%20consider%20when%20designing%20your%20pipeline)
-        - A basic pipline
+        - A basic pipeline
         - Branching PCollections
             - Multiple transforms process the same PCollection
             - A single transform that uses side outputs
