@@ -48,3 +48,12 @@ records.apply("WriteToText",
     TextIO.Write.to("protocol://my_bucket/path/to/numbers")
                 .withSuffix(".csv"));
 ```
+
+#### Beam-provied I/O APIs
+
+Beam 지원 I/O API에 대한 언어 별 소스 코드 디렉토리를 참조하십시오. 앞으로 이러한 I/O 소스 각각에 대한 특정 문서가 추가 될 것입니다. ([BEAM-1054](https://issues.apache.org/jira/browse/BEAM-1054))
+
+|  Language |  File-based | Messaging	  | Database  |
+|---|---|---|---|
+| Java  | [AvroIO](https://github.com/apache/beam/blob/master/sdks/java/core/src/main/java/org/apache/beam/sdk/io/AvroIO.java) <br> [HDFS](https://github.com/apache/beam/tree/master/sdks/java/io/hdfs) <br> [TextIO](https://github.com/apache/beam/blob/master/sdks/java/core/src/main/java/org/apache/beam/sdk/io/TextIO.java) <br> [XML](https://github.com/apache/beam/tree/master/sdks/java/core/src/main/java/org/apache/beam/sdk/io)<br>| [JMS](https://github.com/apache/beam/tree/master/sdks/java/io/jms) <br> [Kafka](https://github.com/apache/beam/tree/master/sdks/java/io/kafka) <br> [Kinesis](https://github.com/apache/beam/tree/master/sdks/java/io/kinesis) <br> [Google Cloud PubSub](https://github.com/apache/beam/tree/master/sdks/java/core/src/main/java/org/apache/beam/sdk/io) <br> | [Apache Hbase](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) <br> [MongoDB](https://github.com/apache/beam/tree/master/sdks/java/io/mongodb) <br> [JDBC](https://github.com/apache/beam/tree/master/sdks/java/io/jdbc) <br> [Google BigQuery](https://github.com/apache/beam/tree/master/sdks/java/io/google-cloud-platform/src/main/java/org/apache/beam/sdk/io/gcp/bigquery) <br> [Google Cloud Bigtable](https://github.com/apache/beam/tree/master/sdks/java/io/google-cloud-platform/src/main/java/org/apache/beam/sdk/io/gcp/bigtable) <br> [Google Cloud Datastore](https://github.com/apache/beam/tree/master/sdks/java/io/google-cloud-platform/src/main/java/org/apache/beam/sdk/io/gcp/datastore) <br>  |
+|  Python | [avroio](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/io/avroio.py) <br> [textio](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/io/textio.py) <br>  |   | [Google BigQuery](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/io/gcp/bigquery.py) <br> [Google Cloud Datastore](https://github.com/apache/beam/tree/master/sdks/python/apache_beam/io/gcp/datastore) <br>  |
