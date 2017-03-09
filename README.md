@@ -25,7 +25,7 @@
     - [Side Inputs and Side Outputs](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/4.%20Applying%20transforms/6.%20Side%20Inputs%20and%20Side%20Outputs)
 - [Composite Transforms](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/5.%20Composite%20Transforms)
 - [Pipeline I/O](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/6.%20Pipeline%20Input%20Output)
-- Running the Pipeline
+- [Running the Pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/7.%20Running%20the%20pipeline)
 - Data Encoding and Type Safety
 - Working with Windowing
 - Working with Triggers
