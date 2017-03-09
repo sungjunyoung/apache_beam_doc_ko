@@ -11,11 +11,6 @@
 - [Working with PCollections](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/3.%20Working%20with%20PCollections)
     - [Creating a PCollection](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/3.%20Working%20with%20PCollections/1.%20Creating%20a%20PCollection)
     - [PCollection Characteristics](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/3.%20Working%20with%20PCollections/2.%20PCollection%20characteristics)
-        - Element Type
-        - Immutability
-        - Random Access
-        - Size and Boundedness
-        - Element Timestamps
 - [Applying Transforms](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/4.%20Applying%20transforms)
     - [Using ParDo](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/4.%20Applying%20transforms/1.%20Using%20ParDo)
     - [Using GroupByKey](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/4.%20Applying%20transforms/2.%20Using%20GroupByKey)
@@ -26,6 +21,6 @@
 - [Composite Transforms](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/5.%20Composite%20Transforms)
 - [Pipeline I/O](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/6.%20Pipeline%20Input%20Output)
 - [Running the Pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/7.%20Running%20the%20pipeline)
-- Data Encoding and Type Safety
-- Working with Windowing
-- Working with Triggers
+- [Data Encoding and Type Safety](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/8.%20Data%20encoding%20and%20type%20safety)
+- Working with Windowing (준비중)
+- Working with Triggers (준비중)
