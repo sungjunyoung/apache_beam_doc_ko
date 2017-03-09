@@ -25,3 +25,16 @@
     - [Data Encoding and Type Safety](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/1.%20Apache%20Beam%20Programming%20Guide/8.%20Data%20encoding%20and%20type%20safety)
     - Working with Windowing (준비중)
     - Working with Triggers (준비중)
+
+- Pipeline Fundamentals
+    - Design Your Pipeline
+        - What to consider when designing your pipeline
+        - A basic pipline
+        - Branching PCollections
+            - Multiple transforms process the same PCollection
+            - A single transform that uses side outputs
+        - Merging PCollections
+        - Multiple source
+        - What's next
+    - Create Your Pipeline
+    - Test Your Pipeline
