@@ -43,10 +43,10 @@
         - [What's next](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/2.%20Create%20Your%20Pipeline/6.%20What's%20next)
     - [Test Your Pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline)
         - [Testing Individual DoFn Objects](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/1.%20Testing%20Individual%20DoFn%20Objects)
-            - Creating a DoFnTester
-            - Creating Test Inputs
-                - Side Inputs and Outputs
-            - Processing Test Inputs and Checking Results
+            - [Creating a DoFnTester](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/1.%20Testing%20Individual%20DoFn%20Objects#creating-a-dofntester)
+            - [Creating Test Inputs](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/1.%20Testing%20Individual%20DoFn%20Objects#creating-test-inputs)
+                - [Side Inputs and Outputs](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/1.%20Testing%20Individual%20DoFn%20Objects#side-inputs-and-outputs)
+            - [Processing Test Inputs and Checking Results](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/1.%20Testing%20Individual%20DoFn%20Objects#processing-test-inputs-and-checking-result)
         - [Testing Composite Transforms](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/2.%20Testing%20Composite%20Transforms)
             - TestPipeline
             - Using the Create Transform
