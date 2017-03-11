@@ -52,5 +52,5 @@
             - [Using the Create Transform](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/2.%20Testing%20Composite%20Transforms#using-the-create-transform)
             - [PAssert](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/2.%20Testing%20Composite%20Transforms#passert)
             - [An Example Test for a Composite Transform](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/2.%20Testing%20Composite%20Transforms#an-example-test-for-a-composite-transformㄴ)
-        - Testing a Pipeline End-to-End
-            - Testing the WordCount Pipeline
+        - [Testing a Pipeline End-to-End](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/3.%20Testing%20a%20Pipeline%20End-to-End)
+            - [Testing the WordCount Pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/3.%20Testing%20a%20Pipeline%20End-to-End#testing-the-wordcount-pipeline)
