@@ -41,13 +41,13 @@
         - [Writing or Outputting Your Final Pipeline Data](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/2.%20Create%20Your%20Pipeline/4.%20Writing%20or%20Outputting%20Your%20Final%20Pipeline%20Data)
         - [Running Your Pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/2.%20Create%20Your%20Pipeline/5.%20Running%20Your%20Pipeline)
         - [What's next](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/2.%20Create%20Your%20Pipeline/6.%20What's%20next)
-    - Test Your Pipeline
-        - Testing Individual DoFn Objects
+    - [Test Your Pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline)
+        - [Testing Individual DoFn Objects](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/1.%20Testing%20Individual%20DoFn%20Objects)
             - Creating a DoFnTester
             - Creating Test Inputs
                 - Side Inputs and Outputs
             - Processing Test Inputs and Checking Results
-        - Testing Composite Transforms
+        - [Testing Composite Transforms](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/2.%20Testing%20Composite%20Transforms)
             - TestPipeline
             - Using the Create Transform
             - PAssert
