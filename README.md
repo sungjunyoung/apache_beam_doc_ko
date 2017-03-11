@@ -2,7 +2,7 @@
 > 아파치 Beam 도큐멘테이션 번역  
 >
 > 역자주  
-> [Apache beam](https://beam.apache.org/) documentations 를 번역한 글입니다. 공부 목적이나 마음껏 사용하세요 :)
+> [Apache beam](https://beam.apache.org/) documentations 를 번역한 글입니다. 공부 목적이니 마음껏 사용하세요 :)
 
 ## Contents
 
@@ -29,10 +29,8 @@
 - **[Pipeline Fundamentals](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals)**
     - [Design Your Pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/1.%20Design%20Your%20Pipeline)
         - [What to consider when designing your pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/1.%20Design%20Your%20Pipeline/1.%20What%20to%20consider%20when%20designing%20your%20pipeline)
-        - A basic pipeline
+        - [A basic pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/1.%20Design%20Your%20Pipeline/2.%20A%20basic%20pipeline)
         - Branching PCollections
-            - Multiple transforms process the same PCollection
-            - A single transform that uses side outputs
         - Merging PCollections
         - Multiple source
         - What's next

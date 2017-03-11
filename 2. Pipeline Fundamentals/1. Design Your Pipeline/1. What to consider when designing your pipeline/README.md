@@ -1,4 +1,4 @@
-## What to consider when designing your pipeline
+### What to consider when designing your pipeline
 
 Beam pipeline 을 디자인할 때, 몇개의 기본적인 질문들에 대해 고려해야 합니다.
 - **Where is your input data stored?** (당신의 입력 데이터가 어디에 저장되어 있습니까?) 얼마나 많은 입력 데이터가 얼마나 많습니까? 이러한 질문들은 당신의 pipeline 을 만들기 시작할 때 어떤 종류의 `Read` transform 을 적용해야 할 지 결정할 떄 도움을 줄 것입니다.

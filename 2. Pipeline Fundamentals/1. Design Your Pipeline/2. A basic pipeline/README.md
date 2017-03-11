@@ -1,4 +1,4 @@
-## A basic pipeline
+### A basic pipeline
 
 가장 간단한 파이프라인은 오퍼레이션의 직렬적인 흐름입니다. 아래의 그림과 같습니다.:
 
