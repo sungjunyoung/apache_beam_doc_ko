@@ -30,8 +30,8 @@
     - [Design Your Pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/1.%20Design%20Your%20Pipeline)
         - [What to consider when designing your pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/1.%20Design%20Your%20Pipeline/1.%20What%20to%20consider%20when%20designing%20your%20pipeline)
         - [A basic pipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/1.%20Design%20Your%20Pipeline/2.%20A%20basic%20pipeline)
-        - Branching PCollections
-        - Merging PCollections
+        - [Branching PCollections](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/1.%20Design%20Your%20Pipeline/3.%20Branching%20PCollections)
+        - [Merging PCollections](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/1.%20Design%20Your%20Pipeline/4.%20Merging%20PCollections)
         - Multiple source
         - What's next
     - Create Your Pipeline
