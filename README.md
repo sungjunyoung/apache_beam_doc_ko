@@ -36,8 +36,6 @@
         - [What's next](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/1.%20Design%20Your%20Pipeline/6.%20What's%20next)
     - Create Your Pipeline
         - Creating Your Pipeline Object
-            - Setting PipelineOptions from Command-Line Arguments
-            - Creating Custom Options
         - Reading Data Into Your Pipeline
         - Applying Transforms to Process Pipeline Data
         - Writing or Outputting Your Final Pipeline Data
