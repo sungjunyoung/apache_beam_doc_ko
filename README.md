@@ -48,9 +48,9 @@
                 - [Side Inputs and Outputs](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/1.%20Testing%20Individual%20DoFn%20Objects#side-inputs-and-outputs)
             - [Processing Test Inputs and Checking Results](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/1.%20Testing%20Individual%20DoFn%20Objects#processing-test-inputs-and-checking-result)
         - [Testing Composite Transforms](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/2.%20Testing%20Composite%20Transforms)
-            - TestPipeline
-            - Using the Create Transform
-            - PAssert
-            - An Example Test for a Composite Transform
+            - [TestPipeline](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/2.%20Testing%20Composite%20Transforms#testpipeline)
+            - [Using the Create Transform](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/2.%20Testing%20Composite%20Transforms#using-the-create-transform)
+            - [PAssert](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/2.%20Testing%20Composite%20Transforms#passert)
+            - [An Example Test for a Composite Transform](https://github.com/sungjunyoung/apache_beam_doc_ko/tree/master/2.%20Pipeline%20Fundamentals/3.%20Test%20Your%20Pipeline/2.%20Testing%20Composite%20Transforms#an-example-test-for-a-composite-transformㄴ)
         - Testing a Pipeline End-to-End
             - Testing the WordCount Pipeline
