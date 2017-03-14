@@ -26,7 +26,7 @@ Beam SDK 로 다른 다양한 데이터 소스를 읽어오는 방법에 대해 
 
 in-memory Java Collection 으로부터 PCollection 을 만드려면, 당신은 Beam 에서 제공하는 Create transform 을 이용해야 합니다. 이것은 데이터 어뎁터의 Read 와 비슷하며, 당신은 Pipeline 오브젝트에 직접 Create 를 적용할 수 있습니다.
 
-매개변수로, Create 는 Java 의 Collection 과 Coder 오브젝트를 받습니다. Coder 는 Collection 이 어떻게 [암호화](https://beam.apache.org/documentation/programming-guide/#pcelementtype)할지를 나타냅니다.
+매개변수로, Create 는 Java 의 Collection 과 Coder 오브젝트를 받습니다. Coder 는 Collection 이 어떻게 [인코딩](https://beam.apache.org/documentation/programming-guide/#pcelementtype)할지를 나타냅니다.
 
 다음 예제는 어떻게 in-memory List 로 부터 PCollection 을 만드는지 보여줍니다. :
 
